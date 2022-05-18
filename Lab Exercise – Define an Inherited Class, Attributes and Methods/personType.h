@@ -24,5 +24,4 @@ private:
 	int    age;
 	int    weight;
 	double height;
-
 };
