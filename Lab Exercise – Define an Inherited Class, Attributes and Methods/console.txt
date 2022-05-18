@@ -1,0 +1,28 @@
+Name:   Jake
+Age:    19
+Weight: 55
+Height: 170
+
+Nate
+25
+90
+165
+
+Name:   Doth
+Age:    19
+Weight: 65
+Height: 180
+
+Krate
+20
+80
+200
+
+Major: Math
+GPA: 3.99
+ClassYear: 1
+
+Computer Science
+2.99
+3
+
